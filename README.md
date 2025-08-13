@@ -3,6 +3,18 @@
 <h2>Description</h2>
 <p>This repository contains the Cisco Packet Tracer (`.pkt`) file that demonstrates a secure, scalable, and structured network built for a medium-sized enterprise. The project objective was to design a network for a 240-staff business, segmented into five departments across two floors, including a guest wireless network and capacity for 20% future growth. </p>
 
+<p>This project was a practical application of network theory, designed to solve a real-world business problem. The focus was on translating a set of business requirements—for security, user capacity, and scalability—into a fully configured, hardened, and simulated enterprise network. It serves as a direct demonstration of my ability to design and manage secure IT infrastructure. </p>
+
+
+<h2>Goals and Purpose</h2>
+<ul>
+<li><b>Design for a Business Scenario:</b>The goal was to move beyond single-device configurations and architect an entire network topology for a 240-employee company.</li>
+<li><b>Implement Secure Segmentation:</b>To use VLANs and a structured subnetting scheme to logically separate departments, isolating traffic and containing potential security threats.</li>
+<li><b>Harden Network Infrastructure:</b> To configure enterprise-grade hardware, including a Cisco ASA Firewall, Layer 3 switches, and wireless controllers, with industry-standard security practices.</li>
+</ul>
+<br />
+
+
 <h2>Network Topology Diagram</h2>
 <p><b>The network follows a hierarchical design with a core router, two distribution-layer (L3) switches, and multiple access-layer (L2) switches to ensure scalability and efficient traffic management. Redundancy is built-in using the Spanning Tree Protocol (STP).</b></p> 
 
