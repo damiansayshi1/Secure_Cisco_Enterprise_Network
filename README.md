@@ -124,4 +124,14 @@ This is a screenshot of the CLI of a Multilayer Switch after it was configured: 
 <img src="https://i.imgur.com/QUoIPhz.png" height="80%" width="80%" alt="Assembly_Program_Runtime"/>
 <br />
 <br />
+  <br />
+<br />
+<h2>How to run:</h2>
+<ol>
+<li>Download the `.pkt` file from this repository.</li>
+<li>Install Cisco Packet Tracer (https://www.netacad.com/courses/packet-tracer).</li>
+<li>Open the `.pkt` file with Cisco Packet Tracer.</li>
+<li>You can view all device configurations, run simulations (`ping`, etc.), and explore the network topology in detail.</li>
+  
+</ol>
 </p>
